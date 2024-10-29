@@ -3,8 +3,6 @@
 A non-invasive glucometer designed to measure blood glucose levels without the need for finger pricks or blood samples. This device utilizes infrared (IR) spectroscopy to determine glucose levels by analyzing light absorption properties of the skin. 
 
 # Overview
-
-# Background
 The goal of this project is to create a non-invasive device for glucose monitoring that improves comfort and accessibility for patients with diabetes. Traditional glucometers require blood samples, which can be painful and lead to user discomfort over time. This project addresses these challenges using non-invasive optical technology.
 
 # How It Works
