@@ -22,7 +22,6 @@ The device utilizes an infrared light source that emits a specific wavelength kn
   - Photo Diode Sensor
   - Microcontroller (e.g., Arduino, ESP32)
   - Resistors, IC's, Capacitors, Potentiometer, LCD Display, Jumper Cables
-  - 
 # Software :
   - Regression Model (for glucose level estimation)
   - Arduino code for data analysis and preprocessing
